@@ -12,3 +12,4 @@ $(function () {
       });
   });
 });
+alert("test 2");
